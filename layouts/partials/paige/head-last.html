@@ -1,0 +1,4 @@
+<link rel="me" href="https://social.pawsitiv.space/@tarper24">
+{{ $css := resources.Get "css/custom.css" }}
+{{ $secureCSS := $css | resources.Minify | resources.Fingerprint "sha512" }}
+<link rel="stylesheet" href="{{ $secureCSS.RelPermalink }}" integrity="{{ $secureCSS.Data.Integrity }}">
