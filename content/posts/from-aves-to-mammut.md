@@ -80,8 +80,6 @@ https://hackers.town/@thraeryn/109388180266512007
    If you want to preserve someone else's threads then the Archive Social tool -- https://archive.social -- is a great way to do that.
    Go through the threads that you reference often and collect them into downloadable PDFs, etc, with that tool.
 
-I hope that we can stay in contact.  I'm here if there's anything I can do for you or ways that we can cross paths in the future, perhaps.  Please feel free to reply here with any contact information of your own or -- if you don't trust Twitter with your data and your messages -- you can always email me with any information that you wish.  Absolutely no obligation or expectation at all, however.
-
 See you soon, I hope.
 Stay safe out there!
 :thumbsup:
