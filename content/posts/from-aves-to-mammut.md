@@ -42,12 +42,11 @@ I've valued being connected to so many people online and on Twitter so I'm shari
 If you are thinking of starting up your *own* Mastodon instance (which is a cool thing to do!) then PLEASE read this first...
 https://hackers.town/@thraeryn/109388180266512007
 
-1. If you want to stay in touch with me in a post-Twitter world, you can find where I'm at on my [Lynx](https://t24.co)
+1. If you want to stay in touch with me in a post-Twitter world, you can find where I'm at on my [Lynx](https://t24.co).
 
 2. I have joined the Fediverse and am currently on Pawsitiv Spaces's Mastodon Instance (https://social.pawsitiv.space/@tarper24).
    I started this up myself, and while I'm new to the Fediverse, I plan to do my best running it!
    You can sign up here: https://social.pawsitiv.space/auth/sign_up
-   And if you want to help me out with moderation, lemme know.
    You don't have to be a member of that instance to connect with me, however.
    If you join *any* Mastodon instance which is federated with the overall network, you can connect with and follow all your friends, even if they are on other instances/servers.
    If you are searching for a community to join, https://instances.social has a considerable list of options.
