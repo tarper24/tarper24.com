@@ -17,4 +17,4 @@ I'm also a furry and enjoy all things cute, cuddle, fluffy, etc.
 
 For now, I'm mostly using this site as a blog.
 Content will likely be sporadic, but I'll try to remember it exists!
-Until then, you can find me on [Pawsitiv Space](https://pawsitiv.space) and elsewhere through my [Lynx](https://t24.co).
+You can find me on [Pawsitiv Space](https://pawsitiv.space) and elsewhere through my [Lynx](https://t24.co).

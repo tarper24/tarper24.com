@@ -1,7 +1,7 @@
 ---
 categories: ["Social Media"]
 date: 2023-01-27T21:08:16-06:00
-description: "Moving from Twitter to the Fediverse."
+description: "Moving from on social media site to another."
 draft: true
 link: false
 keywords: []
