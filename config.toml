@@ -1,0 +1,69 @@
+baseURL = 'https://tarper24.com/'
+languageCode = 'en-us'
+title = 'tarper24'
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+copyright = 'tarper24'
+
+[permalinks]
+  posts = '/posts/:year/:month/:day/:slug/'
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+
+[module]
+[[module.imports]]
+  path = "github.com/tarper24/paige"
+
+[params]
+  date_format = "2006-01-02"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = -110
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  name = "Lynx"
+  url = "https://t24.co"
+  weight = 20
+
+[params.paige]
+  hide_theme_comment = true
+
+[params.paige.social.1mastodon]
+  icon = "mastodon"
+  link = "https://social.pawsitiv.space/@tarper24"
+  name = "Social Space (Mastodon)"
+
+[params.paige.social.2youtube]
+  icon = "youtube"
+  link = "https://yt.t24.co"
+  name = "YouTube"
+
+[params.paige.social.3twitch]
+  icon = "twitch"
+  link = "https://tv.t24.co"
+  name = "Twitch"
+
+[params.paige.social.4github]
+  icon = "github"
+  link = "https://gh.t24.co"
+  name = "GitHub"
+
+[params.paige.social.5twitter]
+  icon = "twitter"
+  link = "https://twitter.t24.co"
+  name = "Twitter"
+
+[params.paige.social.2github]
+  icon = "github"
+  link = "https://github.com/tarper24/tarper24.com"
+  name = "Website Source Code (GitHub)"
