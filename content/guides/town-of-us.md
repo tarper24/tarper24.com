@@ -1,13 +1,16 @@
 ---
-categories: []
-date: 2024-06-07T12:52:36.009Z
+date: 2024-06-07T13:33:33.337Z
 description: Guide walking through installing the Town of Us mod for Among Us
 link: false
+categories: []
 keywords: []
 tags: []
-title: How to Install *Town of Us*
-show_lastmod: true
+title: How to Install "Town of Us"
+show_lastmod: false
 slug: town-of-us
+images:
+  - /images/guides/town-of-us/town-of-us-preview.png
+preview: /images/guides/town-of-us/town-of-us-preview.png
 ---
 
 Follow the steps within to downgrade your *Among Us* to a compatible version and install the Town of Us mod.
