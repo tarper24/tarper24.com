@@ -8,6 +8,7 @@ copyright = 'tarper24'
 
 [permalinks]
   posts = '/posts/:year/:month/:day/:slug/'
+  guides = '/guides/:slug/'
 
 [taxonomies]
 	tag = "tags"
@@ -63,7 +64,7 @@ copyright = 'tarper24'
   link = "https://twitter.t24.co"
   name = "Twitter"
 
-[params.paige.social.2github]
+[params.paige.social.6github]
   icon = "github"
   link = "https://github.com/tarper24/tarper24.com"
   name = "Website Source Code (GitHub)"

@@ -1,49 +1,48 @@
 ---
 categories: []
-date: 2024-06-06T20:39:00-06:00
-description: "Installing Town of Us for Among Us"
+date: 2024-06-07T03:58:27.485Z
+description: Guide walking through installing the Town of Us mod for Among Us
 link: false
 keywords: []
 tags: []
-title: "Town of Us Installation guide"
+title: How to Install *Town of Us*
 show_lastmod: true
+slug: town-of-us
 ---
 
-# How to Install *Town of Us*
-
-## Downgrade your *Among Us* to Previous Version
+## Downgrade your *Among Us* to the previous version
 
 1. Right click *Among Us* in Steam and Select "Properties..."
 
-   ![Screenshot of the context menu for Among Us in the Steam Client](/images/guides/town-of-us/among-us-context.png)
+   {{< figure src="/images/guides/town-of-us/among-us-context.png" alt="Screenshot of the context menu for Among Us in the Steam Client">}}
 
-1. Click "Betas" on the left
+2. Click "Betas" on the left
 
-1. Select the "public-previous" option for Beta Participation
+3. Select the "public-previous" option for Beta Participation
 
-   ![Screenshot of the Steam properties window for Among Us on the Betas tab](/images/guides/town-of-us/betas.png)
+   {{< figure src="/images/guides/town-of-us/betas.png" alt="Screenshot of the Steam properties window for Among Us on the Betas tab">}}
 
-1. Click "Installed Files" on the left
+4. Click "Installed Files" on the left
 
-1. Click "Verify integrity of game files"
+5. Click "Verify integrity of game files"
 
-1. Wait for Steam to finish the verification and download
+6. Wait for Steam to finish the verification and download
 
-1. Select "Browse..."
+7. Select "Browse..."
 
-   ![Screenshot of the Steam properties window for Among Us on the Installed Files tab](/images/guides/town-of-us/installed-files.png)
+   {{< figure src="/images/guides/town-of-us/installed-files.png" alt="Screenshot of the Steam properties window for Among Us on the Installed Files tab">}}
 
-1. Copy the files from your *Among Us* install to a new location
+8. Copy the files from your *Among Us* install to a new location
 
-   ![Screenshot showing copying Among Us game files between folders](/images/guides/town-of-us/copy-game-files.png)
+   {{< figure src="/images/guides/town-of-us/copy-game-files.png" alt="Screenshot showing copying Among Us game files between folders">}}
 
-## Install *Town of Us R*
+## Install *Town of Us*
 
 1. Download the mod zip from [GitHub](https://github.com/eDonnes124/Town-Of-Us-R/releases/download/v5.0.4/ToU.v5.0.4.zip)
 
-1. Extract the contents and move everything within the ToU folder to the same location you copied *Among Us* to above
+2. Extract the contents and move everything within the ToU folder to the same location you copied *Among Us* to above
 
-   ![Screenshot showing moving mod files from the ToU folder to the same folder as above](/images/guides/town-of-us/move-mod-files.png)
+   {{< figure src="/images/guides/town-of-us/move-mod-files.png" alt="Screenshot showing moving mod files from the ToU folder to the same folder as above">}}
 
 ## Launch *Among Us*
 
