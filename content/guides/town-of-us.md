@@ -10,6 +10,10 @@ show_lastmod: true
 slug: town-of-us
 ---
 
+Follow the steps within to downgrade your *Among Us* to a compatible version and install the Town of Us mod.
+
+<!--more-->
+
 ## Downgrade your *Among Us* to the previous version
 
 1. Right click *Among Us* in Steam and Select "Properties..."
