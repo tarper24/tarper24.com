@@ -63,6 +63,24 @@
           "title": "show_lastmod",
           "name": "show_lastmod",
           "type": "boolean"
+        },
+        {
+          "title": "keywords",
+          "name": "keywords",
+          "type": "fields",
+          "fields": []
+        },
+        {
+          "title": "paige",
+          "name": "paige",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "toc",
+              "name": "toc",
+              "type": "boolean"
+            }
+          ]
         }
       ]
     }
