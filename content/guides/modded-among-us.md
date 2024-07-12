@@ -47,7 +47,7 @@ Follow the steps within to downgrade your *Among Us* to a compatible version and
 
 3. ~~Extract the contents and move everything within to the same location you copied *Among Us* to above. Make sure you install this mod into a clean *Among Us* install.~~
 
-   {{< figure src="/images/guides/town-of-us/move-mod-files.png" alt="Screenshot showing moving mod files to the same folder as above">}}
+   {{< figure src="/images/guides/modded-among-us/move-mod-files.png" alt="Screenshot showing moving mod files to the same folder as above">}}
 
 4. Launch *Among Us*
 
@@ -61,7 +61,7 @@ Follow the steps within to downgrade your *Among Us* to a compatible version and
 
    {{< figure src="/images/guides/modded-among-us/copy-game-files.png" alt="Screenshot showing copying Among Us game files between folders">}}
 
-2. Download the mod zip from [GitHub](https://github.com/tarper24/TheOtherRoles/releases/download/v4.5.3.24/TheOtherRoles.zip)
+2. Download the mod zip from [GitHub](https://github.com/tarper24/TheOtherRoles/releases/download/v4.5.3.241/TheOtherRoles.zip)
 
 3. Extract the contents and move everything within to the same location you copied *Among Us* to above. Make sure you install this mod into a clean *Among Us* install.
 
