@@ -72,3 +72,19 @@ Follow the steps within to downgrade your *Among Us* to a compatible version and
    The last step is to just double-click the *Among Us* executable!
 
    > NOTE: It may take up to 5 minutes for the first launch
+
+## Troubleshooting and Issues
+
+### Black Screen on Launch
+
+If you are stuck on a black screen when launching, try the following:
+
+1. Rename or Remove the `settings.amogus` file in `%APPDATA%\..\LocalLow\Innersloth\Among Us`
+
+   > NOTE: This will reset your game and lobby settings
+
+   {{< figure src="/images/guides/modded-among-us/rename-settings.png" alt="Screenshot showing a settings.amogus file and a settings.bak.amogus file">}}
+
+2. If you still get stuck on a black screen, you can try deleting the entire `Among Us` folder in `%APPDATA%\..\LocalLow\Innersloth\`
+
+   > I recommend backing up your data before doing this
