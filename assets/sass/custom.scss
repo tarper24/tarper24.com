@@ -1,0 +1,29 @@
+.danger,
+.note,
+.warning {
+  border-left-style: solid;
+  border-left-width: 0.4rem;
+  border-radius: 0.2rem;
+  margin-left: 0;
+  > p {
+    padding: 0.5rem 1rem;
+  }
+}
+
+.warning {
+  border-left-color: var(--bs-warning);
+  background: var(--bs-warning-bg-subtle);
+  color: var(--bs-warning-text);
+}
+
+.note {
+  border-left-color: var(--bs-info);
+  background: var(--bs-info-bg-subtle);
+  color: var(--bs-info-text);
+}
+
+.danger {
+  border-left-color: var(--bs-danger);
+  background: var(--bs-danger-bg-subtle);
+  color: var(--bs-danger-text);
+}

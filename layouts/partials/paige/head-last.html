@@ -1,4 +1,8 @@
 <link rel="me" href="https://social.pawsitiv.space/@tarper24">
+{{ $sassOpts := dict "transpiler" "libsass" "targetPath" "css/sass_out.css" }}
+
+{{ $sass := resources.Get "sass/custom.scss" | toCSS $sassOpts }}
 {{ $css := resources.Get "css/custom.css" }}
-{{ $secureCSS := $css | resources.Minify | resources.Fingerprint "sha512" }}
+{{ $css := slice $css $sass | resources.Concat "main.css" }}
+{{ $secureCSS := $css | minify | fingerprint "sha512" }}
 <link rel="stylesheet" href="{{ $secureCSS.RelPermalink }}" integrity="{{ $secureCSS.Data.Integrity }}">
