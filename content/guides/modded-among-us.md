@@ -35,38 +35,42 @@ Follow the steps within to downgrade your *Among Us* to a compatible version and
 
 3. Once the download is complete, navigate to the folder where the files were downloaded, as shown in the Steam Console output
 
-   {{< figure src="/images/guides/modded-among-us/steam-console.png" alt="Screenshot of the Steam Console with the download_depot command ran and the download location output.">}}
+   ![Screenshot of the Steam Console with the download_depot command ran and the download location output.](/images/guides/modded-among-us/steam-console.png "Screenshot of the Steam Console with the download_depot command ran and the download location output.")
 
-## ~~*Town of Us*~~
+## *Town of Us*
 
-1. ~~Copy the files from the *Among Us* download to a new location~~
+{{<details-tag summary="Instructions (Deprecated)">}}
 
-   <!-- {{< figure src="/images/guides/modded-among-us/copy-game-files.png" alt="Screenshot showing copying Among Us game files between folders">}} -->
+1. Copy the files from the *Among Us* download to a new location
 
-2. ~~Download the mod zip from [GitHub](https://github.com/eDonnes124/Town-Of-Us-R/releases/download/v5.0.4/ToU.v5.0.4.zip)~~
+   ![Screenshot showing copying Among Us game files between folders](/images/guides/modded-among-us/copy-game-files.png "Screenshot showing copying Among Us game files between folders")
 
-3. ~~Extract the contents and move everything within to the same location you copied *Among Us* to above. Make sure you install this mod into a clean *Among Us* install.~~
+2. Download the mod zip from [GitHub](https://github.com/eDonnes124/Town-Of-Us-R/releases/download/v5.0.4/ToU.v5.0.4.zip)
 
-   <!-- {{< figure src="/images/guides/modded-among-us/move-mod-files.png" alt="Screenshot showing moving mod files to the same folder as above">}} -->
+3. Extract the contents and move everything within to the same location you copied *Among Us* to above. Make sure you install this mod into a clean *Among Us* install.
 
-4. ~~Launch *Among Us*~~
+   ![Screenshot showing moving mod files to the same folder as above](/images/guides/modded-among-us/move-mod-files.png "Screenshot showing moving mod files to the same folder as above")
 
-   ~~The last step is to just double-click the *Among Us* executable!~~
+4. Launch *Among Us*
 
-   > ~~It may take up to 5 minutes for the first launch~~
-   <!-- {.note} -->
+   The last step is to just double-click the *Among Us* executable!
+
+   > It may take up to 5 minutes for the first launch
+   {.note}
+
+{{</details-tag>}}
 
 ## *The Other Roles*
 
 1. Copy the files from the *Among Us* download to a new location
 
-   {{< figure src="/images/guides/modded-among-us/copy-game-files.png" alt="Screenshot showing copying Among Us game files between folders">}}
+   ![Screenshot showing copying Among Us game files between folders](/images/guides/modded-among-us/copy-game-files.png "Screenshot showing copying Among Us game files between folders")
 
 2. Download the mod zip from [GitHub](https://github.com/tarper24/TheOtherRoles/releases/download/v4.6.0.24/TheOtherRoles.zip)
 
 3. Extract the contents and move everything within to the same location you copied *Among Us* to above. Make sure you install this mod into a clean *Among Us* install.
 
-   {{< figure src="/images/guides/modded-among-us/move-mod-files.png" alt="Screenshot showing moving mod files to the same folder as above">}}
+   ![Screenshot showing moving mod files to the same folder as above](/images/guides/modded-among-us/move-mod-files.png "Screenshot showing moving mod files to the same folder as above")
 
 4. Launch *Among Us*
 
@@ -86,7 +90,7 @@ If you are stuck on a black screen when launching, try the following:
    > This will reset your game and lobby settings
    {.note}
 
-   {{< figure src="/images/guides/modded-among-us/rename-settings.png" alt="Screenshot showing a settings.amogus file and a settings.bak.amogus file">}}
+   ![Screenshot showing a settings.amogus file and a settings.bak.amogus file](/images/guides/modded-among-us/rename-settings.png "Screenshot showing a settings.amogus file and a settings.bak.amogus file")
 
 2. If you still get stuck on a black screen, you can try deleting the entire `Among Us` folder in `%APPDATA%\..\LocalLow\Innersloth\`
 
