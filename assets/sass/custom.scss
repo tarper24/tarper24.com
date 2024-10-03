@@ -11,19 +11,48 @@
 }
 
 .warning {
-  border-left-color: var(--bs-warning);
+  border-left-color: var(--bs-warning-border-subtle);
   background: var(--bs-warning-bg-subtle);
   color: var(--bs-warning-text);
 }
 
 .note {
-  border-left-color: var(--bs-info);
+  border-left-color: var(--bs-info-border-subtle);
   background: var(--bs-info-bg-subtle);
   color: var(--bs-info-text);
 }
 
 .danger {
-  border-left-color: var(--bs-danger);
+  border-left-color: var(--bs-danger-border-subtle);
   background: var(--bs-danger-bg-subtle);
   color: var(--bs-danger-text);
+}
+
+
+details {
+  background-color: var(--bs-light-bg-subtle);
+  color: var(--bs-light-text);
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+
+summary {
+  padding: 10px;
+  background-color: var(--bs-tertiary-bg);
+  border-radius: 5px;
+}
+
+details[open] summary {
+  border-radius: 5px 5px 0 0;
+}
+
+details div {
+  padding: 10px 5px 5px 5px;
+  border: solid var(--bs-tertiary-bg);
+  border-width: 0 5px 5px 5px;
+  border-radius: 0 0 5px 5px;
+}
+
+summary::marker {
+  color: var(--bs-primary);
 }
