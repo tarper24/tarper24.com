@@ -27,7 +27,7 @@ Follow the steps within to downgrade your *Among Us* to a compatible version and
 
 1. Open the Steam Console with: [steam://nav/console](steam://nav/console)
 
-2. Run the following command to download *Among Us* **v2024.3.5**:
+2. Run the following command to download *Among Us* **v2024.6.18**:
 
    ```bash
    download_depot 945360 945361 5073468987524498627
